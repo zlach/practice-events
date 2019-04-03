@@ -1,0 +1,15 @@
+#theDog{
+	position: absolute;
+	bottom: 0px;
+	left: 50%;
+	height: 300px;
+}
+
+#barkButton{
+	font-size: 2rem;
+	border: 1px solid black;
+}
+
+#proxy{
+	display: none;
+}
